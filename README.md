@@ -6,8 +6,8 @@
 
 This project presents a comprehensive Tableau dashboard designed to analyze and visualize paid marketing campaigns on a social media platform for an e-commerce business.
 
-![YTD Overview](https://github.com/user-attachments/assets/e13bfc22-93f9-4a79-bf4f-16e0428cf075)
-![Campaign Details](https://github.com/user-attachments/assets/85b761d9-f440-47c6-bb16-bb7fc32e707d)
+![YTD Overview](https://github.com/user-attachments/assets/eed4b1ea-6c33-4f68-8a5f-72e39be966ca)
+![Campaign Details](https://github.com/user-attachments/assets/7baa2101-79c4-492d-b1bd-3187d597069e)
 
 ## Key Features
 
